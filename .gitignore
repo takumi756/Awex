@@ -8,3 +8,4 @@ build/
 .env
 .cache/
 *.tmp
+tmp/
